@@ -1,12 +1,10 @@
 # Diageo plc discounted cash flow valuation
 
-**Live presentation:** https://diageo-dcf-finance-portfolio.shawna-mascarenhas20.chatgpt.site
-
 ## Project overview
 
 This project values Diageo plc using a five-year free cash flow to the firm model. It links reported financial history to regional revenue forecasts, normalized operating earnings, reinvestment requirements, WACC, terminal value and a detailed enterprise-to-equity bridge.
 
-The base case produces an implied value of GBP22.65 per diluted share versus a GBP15.93 reference price. This represents 42.2% implied upside. The model presents that result as a range because the terminal period contributes approximately 80% of enterprise value.
+The base case produces an implied value of GBP 22.65 per diluted share versus a GBP 15.93 reference price. This represents 42.2% implied upside. The model presents that result as a range because the terminal period contributes approximately 80% of enterprise value.
 
 ## Objective
 
