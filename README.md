@@ -1,6 +1,22 @@
-# Diageo plc DCF valuation
+# Diageo plc — DCF valuation
 
-This portfolio submission demonstrates an integrated five-year FCFF valuation for Diageo plc.
+An integrated five-year FCFF valuation of Diageo plc, covering operating forecasts, WACC, terminal value, sensitivity analysis and the enterprise-to-equity bridge.
+
+`Financial modelling` · `DCF valuation` · `Corporate finance` · `Equity valuation` · `Excel`
+
+> **Model vintage:** FY2026 information and market inputs available when the model was prepared. Market-dependent assumptions should be refreshed before relying on the valuation.
+
+## Valuation snapshot
+
+| Metric | Base case |
+|---|---:|
+| Implied value per diluted share | GBP 22.65 |
+| Reference share price | GBP 15.93 |
+| Implied upside | 42.2% |
+| Enterprise value | US$82.8bn |
+| Equity value | US$68.3bn |
+| WACC | 7.32% |
+| Terminal growth rate | 2.50% |
 
 ## Files
 
@@ -10,9 +26,14 @@ This portfolio submission demonstrates an integrated five-year FCFF valuation fo
 - [`PORTFOLIO_CASE_STUDY.md`](PORTFOLIO_CASE_STUDY.md) - detailed public-facing project narrative.
 - [`MODEL_AUDIT_REPORT.md`](MODEL_AUDIT_REPORT.md) - reconciliation results, valuation review, limitations and pre-submission refresh list.
 
-## Headline conclusion
+## Skills demonstrated
 
-The base-case DCF produces an implied value of GBP 22.65 per diluted share versus a GBP 15.93 reference price, representing 42.2% implied upside. The result uses a 7.32% WACC, 2.50% terminal growth rate and mid-year discounting.
+- Integrated historical financial statements and five-year operating forecasts
+- Unlevered free-cash-flow construction and mid-year discounting
+- CAPM-based WACC and market-value capital structure
+- Gordon Growth terminal value with ROIC and implied-multiple cross-checks
+- Enterprise-to-equity bridge and diluted per-share valuation
+- Scenario analysis, sensitivity testing and model-integrity controls
 
 ## Suggested review sequence
 
@@ -25,4 +46,4 @@ The base-case DCF produces an implied value of GBP 22.65 per diluted share versu
 
 ## Important note
 
-This is an academic portfolio exercise and is not investment advice. Material judgment areas include terminal assumptions, EABL proceeds, book-value treatments for associates and NCI, pension taxation and GBP/USD translation.
+This is an academic portfolio exercise, not investment advice. The valuation reflects assumptions and information available at the model date. Material judgment areas include terminal assumptions, EABL proceeds, book-value treatments for associates and NCI, pension taxation and GBP/USD translation.
